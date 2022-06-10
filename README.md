@@ -8,3 +8,6 @@ information that used to be here in this git can be found under [manifests].
 // OP-TEE core maintainers
 
 [manifests]: https://optee.readthedocs.io/en/latest/building/gits/build.html#manifests
+
+# Start repo init
+ repo init -u https://github.com/kbamponsem/manifest.git -m qemu_v8.xml
